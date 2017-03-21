@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:2:5-36
+	android:versionName
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:11:5-46:19
+MERGED from [com.android.support:support-v13:25.3.0] C:\Users\navendu\.android\build-cache\297bd08ef64842f9d06413fe0891ff9c3dd0a3a3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\navendu\.android\build-cache\014618a26b73970070bc674d685e9d5eb8333acd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\navendu\.android\build-cache\355229a71a9173cbcb7d137cd6d015a862b38b7c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\navendu\.android\build-cache\cdc5557230e1c9b3362813517bfde56f9e1a9915\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\navendu\.android\build-cache\ff7fe1ee6e7a7093945cf4d152db6dfa6907cbd1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\navendu\.android\build-cache\bb771fb8b904b6e1433ed47791950d68724bd505\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\navendu\.android\build-cache\5a31bccb22be7c573e4b8cd0ff31be4532296184\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\navendu\.android\build-cache\72e15f7824242113587cbadac4f87a94e0a43aed\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\navendu\.android\build-cache\a14c934293b7046ade885805f864fd0ac065d018\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\navendu\.android\build-cache\2027569a484cfa9501202e1b516d11945ad5b8cb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\navendu\.android\build-cache\e5b98d1f2abe72dbb1c1da82c19641c5ecf10e6a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\navendu\.android\build-cache\62de30756d1d65445d48a56628312398bbfe1580\output\AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:15:9-43
+activity#com.example.xyzreader.ui.ArticleListActivity
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:18:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.xyzreader.ui.ArticleDetailActivity
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:26:9-37:20
+	android:parentActivityName
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:27:13-53
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:31:27-73
+data
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:32:17-100
+	android:mimeType
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:32:23-97
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:34:13-36:59
+	android:value
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:36:17-56
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:35:17-63
+service#com.example.xyzreader.data.UpdaterService
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:39:9-40:40
+	android:exported
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:39:18-53
+provider#com.example.xyzreader.data.ItemsProvider
+ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:42:9-44:40
+	android:authorities
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:43:13-56
+	android:exported
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:42:19-53
+uses-sdk
+INJECTED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.0] C:\Users\navendu\.android\build-cache\297bd08ef64842f9d06413fe0891ff9c3dd0a3a3\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\navendu\.android\build-cache\014618a26b73970070bc674d685e9d5eb8333acd\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\navendu\.android\build-cache\355229a71a9173cbcb7d137cd6d015a862b38b7c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\navendu\.android\build-cache\cdc5557230e1c9b3362813517bfde56f9e1a9915\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\navendu\.android\build-cache\ff7fe1ee6e7a7093945cf4d152db6dfa6907cbd1\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\navendu\.android\build-cache\bb771fb8b904b6e1433ed47791950d68724bd505\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\navendu\.android\build-cache\5a31bccb22be7c573e4b8cd0ff31be4532296184\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\navendu\.android\build-cache\72e15f7824242113587cbadac4f87a94e0a43aed\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\navendu\.android\build-cache\a14c934293b7046ade885805f864fd0ac065d018\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\navendu\.android\build-cache\f6eb55b174b0dc457c0fcb1d0af044545c809a67\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\navendu\.android\build-cache\2027569a484cfa9501202e1b516d11945ad5b8cb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\navendu\.android\build-cache\e5b98d1f2abe72dbb1c1da82c19641c5ecf10e6a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\navendu\.android\build-cache\62de30756d1d65445d48a56628312398bbfe1580\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\navendu\.android\build-cache\297bd08ef64842f9d06413fe0891ff9c3dd0a3a3\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\navendu\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.0] C:\Users\navendu\.android\build-cache\297bd08ef64842f9d06413fe0891ff9c3dd0a3a3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\navendu\.android\build-cache\014618a26b73970070bc674d685e9d5eb8333acd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\navendu\.android\build-cache\355229a71a9173cbcb7d137cd6d015a862b38b7c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\navendu\.android\build-cache\cdc5557230e1c9b3362813517bfde56f9e1a9915\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\navendu\.android\build-cache\ff7fe1ee6e7a7093945cf4d152db6dfa6907cbd1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\navendu\.android\build-cache\bb771fb8b904b6e1433ed47791950d68724bd505\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\navendu\.android\build-cache\5a31bccb22be7c573e4b8cd0ff31be4532296184\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\navendu\.android\build-cache\72e15f7824242113587cbadac4f87a94e0a43aed\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\navendu\.android\build-cache\a14c934293b7046ade885805f864fd0ac065d018\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\navendu\.android\build-cache\f6eb55b174b0dc457c0fcb1d0af044545c809a67\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\navendu\.android\build-cache\2027569a484cfa9501202e1b516d11945ad5b8cb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\navendu\.android\build-cache\e5b98d1f2abe72dbb1c1da82c19641c5ecf10e6a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\navendu\.android\build-cache\62de30756d1d65445d48a56628312398bbfe1580\output\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\navendu\.android\build-cache\297bd08ef64842f9d06413fe0891ff9c3dd0a3a3\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\navendu\.android\build-cache\297bd08ef64842f9d06413fe0891ff9c3dd0a3a3\output\AndroidManifest.xml:26:9-47
