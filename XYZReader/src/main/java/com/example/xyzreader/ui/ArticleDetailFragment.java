@@ -123,6 +123,7 @@ public class ArticleDetailFragment extends Fragment implements
 
         if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             window.setStatusBarColor(Color.TRANSPARENT);
+            window.setNavigationBarColor(getResources().getColor(R.color.colorPrimaryDark));
         }
 
         return mRootView;
@@ -190,6 +191,7 @@ public class ArticleDetailFragment extends Fragment implements
                                 }
                                 if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                                     window.setStatusBarColor(mMutedColor);
+                                    window.setNavigationBarColor(mMutedColor);
                                 }
                                 mProgressBar.setVisibility(View.GONE);
                             }
