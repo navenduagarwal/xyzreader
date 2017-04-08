@@ -1,8 +1,12 @@
 <resources>
     <!-- detail -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="detail_title_text_size">32sp</dimen>
     <dimen name="detail_body_text_size">22sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+    <dimen name="max_width">400dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
+
 
     <dimen name="fab_elevation">2dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
@@ -10,5 +14,12 @@
     <dimen name="card_horizontal_margin">16dp</dimen>
     <dimen name="card_vertical_margin">8dp</dimen>
     <dimen name="card_space_margin">4dp</dimen>
+
+    <dimen name="app_bar_height">320dp</dimen>
+    <dimen name="expanded_toolbar_height">80dp</dimen>
+    <dimen name="expanded_toolbar_title_margin_bottom">40dp</dimen>
+    <dimen name="collapsed_toolbar_title_margin_top">20dp</dimen>
+
+    <dimen name="screen_edge_margin">16dp</dimen>
 
 </resources>
