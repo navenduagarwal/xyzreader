@@ -24,5 +24,6 @@
     <color name="ltgray">#9E9E9E</color>
     <color name="primary_text">#212121</color>
     <color name="secondary_text">#727272</color>
+    <color name="grey_300">#E0E0E0</color>
 
 </resources>
